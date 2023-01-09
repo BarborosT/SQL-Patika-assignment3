@@ -1,3 +1,5 @@
+https://app.patika.dev/barborost </br>
+
 # SQL-Patika-assignment3
 
 1.Country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
